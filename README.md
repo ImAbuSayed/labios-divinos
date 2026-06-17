@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-divinos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios divinos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-divinos/) |
+| **Get License** | [Get License For Labios divinos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-divinos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esos labios divinos me tienen perdiendo el control
+> Bajo las luces de neón, tú eres mi único sol
+> Acércate un poquito, quiero sentir tu calor
+> Baby, esta noche es nuestra, there are no rules in amor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
